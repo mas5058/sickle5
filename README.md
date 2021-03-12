@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @sickle5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-Hi I'm Mike Sarlo, 
-I'm currently interested in Python and Engineering jobs.
-I'm currently learning Java
-You Can reach me by emailing mas5058@rit.edu
+- 👋 Hi, I’m  Mike Sarlo, 
+- I'm currently interested in Python and Engineering jobs.
+- I'm currently learning Java
+- You Can reach me by emailing mas5058@rit.edu
 
 <!---
 sickle5/sickle5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
